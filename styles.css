@@ -15,10 +15,10 @@ section{
     background: rgb(170, 4, 4);
     padding-bottom: 80 px;
     padding-top:80 px
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 
 .chamada-texto{
-    margin=right 20px
+    margin=right 5%;
 }
