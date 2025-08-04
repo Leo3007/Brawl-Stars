@@ -1,5 +1,5 @@
 body{
-    color: rgba(255, 179, 0, 0.91);
+    color: rgb (255, 179, 0, 0.91);
     background: rgb(193, 23, 23);
     margin: 0px;
     font-family: "Playfair Display", serif;
@@ -13,9 +13,9 @@ header{
 }
 
 section{
-    background: rgb(170, 4, 4);
-    padding-bottom: 80 px;
-    padding-top:80 px
+    background:rgb(170, 4, 4);
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
