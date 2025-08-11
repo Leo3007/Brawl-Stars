@@ -58,9 +58,9 @@ img{
 }
 
 .categoria-videos{
-    display:flex;
+    display: flex;
     overflow-x: auto;
-    gap:15px;
+    gap: 15px;
 }
 .categoria{
     padding-left:20px;
