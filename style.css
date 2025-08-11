@@ -12,7 +12,7 @@ header{
     color: rgb(228, 228, 228);
 }
 
-section{
+.chamada{
     background:rgb(170, 4, 4);
     padding-bottom: 80px;
     padding-top: 80px;
