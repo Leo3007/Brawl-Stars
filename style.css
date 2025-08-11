@@ -6,10 +6,10 @@ body{
     margin-bottom:100px;
 }
 
-header{
+center{
     border-bottom:solid 2px rgb(244, 91, 9);
     padding: 20px;
-    font-size: 32px;
+    font-size: 100px;
     color: rgb(228, 228, 228);
 }
 
